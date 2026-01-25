@@ -1,4 +1,4 @@
-## en proceso
+## en proceso, estamos trabajando para usted
 Pipeline de Inteligencia de Mercado V2 - Sector Productos del Mar (Machas y Ostiones)
  El Problema y la Evolución (V2)
 En la fase inicial (V1), la prospección directa en minimarkets y locales pequeños demostró ser ineficiente: barreras de entrada con encargados de compras ausentes y baja receptividad al contacto frío presencial.
